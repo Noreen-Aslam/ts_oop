@@ -34,3 +34,48 @@ Clone the repository:
 ```bash
 git clone https://github.com/noreen_aslam/OOP-Hands-On-TS.git
 cd OOP-Hands-On-TS
+
+Install dependencies:
+
+bash:
+Copy code
+npm install
+🚀 Usage
+Navigate to the project directory and execute the scripts:
+
+bash:
+Copy code
+npm start
+📂 Examples
+Explore the following key OOP concepts through our examples:
+
+Classes and Objects: Learn how to create and use classes and objects.
+Inheritance: Understand how to derive new classes from existing ones.
+Polymorphism: Explore method overriding and interface implementation.
+Encapsulation: Learn how to protect data using access modifiers.
+Abstraction: Understand how to design abstract classes and interfaces.
+Each concept is covered with examples in the src directory.
+
+🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or new examples, please fork the repository and submit a pull request.
+
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a pull request
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Happy coding! 🎉
+
+css:
+Copy code
+
+This README provides an overview, setup instructions, and details on how to use and contribute to the project, all formatted for clarity and ease of use.
+
+
+
+
+
+
